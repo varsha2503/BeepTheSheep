@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Beep the sheep</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+  <div id="mainContent">
+    <header class="flex flex-wrap justify-between items-center">
+      <h1 class="text-4xl sm:text-2xl lg:text-7xl xl:text-7xl 2xl:text-7xl md:text-7xl">
+        Beep the Sheep</h1>
+      <div class="hidden md:block lg:block xl:block 2xl:block" id="IITG"></div>
+    </header>
+    <div id="gameWrapper">
+      <div class="rotate-90 md:rotate-0 lg:rotate-0 xl:rotate-0 2xl:rotate-0" id="game">
+        <canvas></canvas>
+      </div>
+    </div>
+    <footer>
+
+      <div class="credits" style="text-align: center;">
+        A Game by:<br>
+        <ul style="list-style-type:disc;">
+          <li>Devika Singh</li>
+          <li>Rinshi Kumari</li>
+          <li>Varsha</li>
+        </ul>
+        Team JustUs<br>
+        IIT Guwahati
+      </div>
+
+
+      <div class="techCredit">
+        <div id="logoTech"></div>
+        <div id="text" style="text-align: center;">A project for <br>HitScan - JS Game Dev Hackathon<br>Technice</div>
+      </div>
+
+    </footer>
+    <script src="script.js"></script>
+  </div>
+</body>
+
+</html>
