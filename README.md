@@ -3,7 +3,7 @@
 This is a simple game called Beep the Sheep. The game is developed using HTML, CSS, and JavaScript. It involves guiding a sheep through obstacles and collecting points. The game is designed and developed by Team JustUs from IIT Guwahati as a project for the HitScan - JS Game Dev Hackathon at Technice.
 
 ## How to Play
-1. Visit the game's website [link-to-game-website](https://varsha2503.github.io/BeepTheSheep/).
+1. Visit the game's website [Game-Link](https://varsha2503.github.io/BeepTheSheep/).
 2. Once the game loads, you will see the title "Beep the Sheep" and a sheep logo.
 3. Use the arrow keys on your keyboard to control the movement of the sheep.
 4. Guide the sheep through the obstacles and try to collect as many points as possible.
